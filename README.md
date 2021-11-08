@@ -1,1 +1,1 @@
-# TODO-list_Vanilla_javascipt
+# Todo List JavaScript Project
